@@ -1,35 +1,50 @@
-<br />
+# Nira Smart Chain
+
 <p align="center">
-  <img src="https://framerusercontent.com/images/JJi9BT4FAjp4W63c3jjNz0eezQ.png" alt="Logo" width="140" height="140">
+  **A Decentralized Blockchain Ecosystem**
 </p>
+
 <p align="center">
-    <b><font size="5">0G is limitless scalability</font></b>
+  Infrastructure • Smart Contracts • Web3 • Decentralized Applications
 </p>
-<br />
 
-# 0G Chain
-Zero Gravity (0G) is the foundational infrastructure for high-performance dapps and chains particularly for AI. 
+---
 
-It efficiently orchestrates utilization of hardware resources such as storage and compute and software assets such as data and models to handle the scale and complexity of AI workloads.
+## Overview
 
-Continue reading [here](https://docs.0g.ai/intro) if you want to learn more about 0G dAIOS and how its various layers enable limitless scalability.
+**Nira Smart Chain** is an evolving blockchain ecosystem focused on decentralized infrastructure, smart contract execution, and permissionless Web3 innovation.
 
-## 0G Product Suite
-- DA: ultra high-performance data availability layer with KZG and quorum-based DAS
-- Storage: decentralized storage with erasure coding and replication
-- Inference Serving: flexible serving framework for inferences and finetuning
-- Network: high-performance, low-latency, and decentralized network
+The project aims to provide a foundation for scalable blockchain applications, on-chain interactions, and an interoperable decentralized ecosystem.
 
-## Documentation
-- If you want to build with 0G's network, DA layer, inference serving, or storage SDK, please refer to the [Build with 0G Documentation](https://docs.0g.ai/build-with-0g/contracts).
+## Core Infrastructure
 
-- If you want to run a validator node, DA node, or storage node, please refer to the [Run a Node Documentation](https://docs.0g.ai/run-a-node/overview).
+- **Blockchain Network** — Decentralized network infrastructure.
+- **Smart Contracts** — Programmable on-chain execution.
+- **Web3 Integration** — Infrastructure for decentralized applications.
+- **Developer Ecosystem** — Tools and resources for blockchain development.
+- **Testnet Environment** — Experimental network for deployment and validation.
 
+## Repository
 
-## Support and Additional Resources
-We want to do everything we can to help you be successful while working on your contribution and projects. Here you'll find various resources and communities that may help you complete a project or contribute to 0G. 
+```bash
+git clone https://github.com/nirachain/nira-smart-chain-testnet.git
+cd nira-smart-chain-testnet
+```
 
+## Development Status
 
-### Communities
-- [0G Telegram](https://t.me/web3_0glabs)
-- [0G Discord](https://discord.com/invite/0glabs)
+**Network:** Testnet Development  
+**Environment:** Experimental  
+**Status:** Under Active Development
+
+## Ecosystem Vision
+
+Building an open, decentralized, and developer-oriented blockchain ecosystem designed to support the next generation of Web3 applications.
+
+---
+
+<p align="center">
+  **NIRA SMART CHAIN**
+  <br/>
+  <i>Powering the Decentralized Future.</i>
+</p>
